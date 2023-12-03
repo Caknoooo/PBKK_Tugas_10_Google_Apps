@@ -9,6 +9,9 @@ Pada tugas 10 kali ini saya  akan membahas lebih dalam mengenai Google Sheet ata
 Google Spreadsheet memiliki fungsi yang sama seperti Ms. Excel, namun dengan Google Spreadsheet ini kita dapat mengerjakan suatu dokumen secara bersamaan dengan rekan-rekan lainnya secara real time karena berbasis web dan dikerjakan secara online.
 Google Spreadhsheet biasa digunakan untuk menyimpan data seperti tabel, grafik, dll dengan menginputkan data secara manual. Ternyata selain itu, Google Spreadsheet juga dapat digunakan sebagai Database dalam pembuatan suatu Aplikasi Entry Data. Google menyediakan layanan berupa Script Editor atau biasa disebut sebagai Google Apps Script, dimana Google Apps Script adalah sebuah bahasa pemrograman yang dieksekusi secara remote di dalam google cloud. Dengan Google Apps Script kita dapat membuat sebuah aplikasi Entry Data, berbasis web, dan data tersebut otomatis akan tersimpan pada Google Spreadsheet sebagai databasenya.
 
+## Link Spreadsheet
+[Live Spreadsheet](https://docs.google.com/spreadsheets/d/1qRkh_OKH_c_7lQayZxYvXlGCtuswnTJyomwjr7eaSlk/edit?usp=sharing)
+
 ## Data diri 
 Nama : M Naufal Badruttamam
 
